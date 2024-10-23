@@ -1,5 +1,5 @@
 #A função math.radians é usada para converter o ângulo de graus para radianos, pois a função math.cos espera um ângulo em radianos como argumento.
-A função math.cos calcula o cosseno do ângulo.
+#A função math.cos calcula o cosseno do ângulo.
 O resultado é impresso com duas casas decimais usando a formatação :.2f.
 
 import math
